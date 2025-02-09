@@ -84,6 +84,7 @@ const styles = StyleSheet.create({
     borderRadius: 50,
     width: "100%",
     alignItems: "center",
+    shadowColor: "#000",
   },
 });
 
