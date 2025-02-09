@@ -82,6 +82,7 @@ const styles = StyleSheet.create({
     backgroundColor: "#00bbf0",
     padding: 10,
     borderRadius: 50,
+    width: "100%",
   },
 });
 
