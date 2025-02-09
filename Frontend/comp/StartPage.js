@@ -78,7 +78,9 @@ const styles = StyleSheet.create({
     justifyContent: "center",
     alignItems: "center",
   },
-  button: {},
+  button: {
+    backgroundColor: "#00bbf0",
+  },
 });
 
 export default MyComponent;
