@@ -85,6 +85,8 @@ const styles = StyleSheet.create({
     width: "100%",
     alignItems: "center",
     shadowColor: "#000",
+    shadowOffset: { width: 10, height: 20 },
+    shadowOpacity: 0.8,
   },
 });
 
