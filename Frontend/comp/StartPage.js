@@ -95,6 +95,7 @@ const styles = StyleSheet.create({
     top: 120,
     boxShadow: "0px 0px 25px white",
     width: 300,
+    padding: 2,
   },
 });
 
