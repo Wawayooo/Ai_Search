@@ -94,6 +94,7 @@ const styles = StyleSheet.create({
     position: "relative",
     top: 120,
     boxShadow: "0px 0px 25px white",
+    width: 300,
   },
 });
 
