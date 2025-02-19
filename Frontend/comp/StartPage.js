@@ -96,6 +96,7 @@ const styles = StyleSheet.create({
     boxShadow: "0px 0px 25px white",
     width: 300,
     padding: 2,
+    borderRadius: 50,
   },
 });
 
