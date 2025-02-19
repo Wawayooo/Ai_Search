@@ -93,6 +93,7 @@ const styles = StyleSheet.create({
     alignItems: "center",
     position: "relative",
     top: 120,
+    boxShadow: "0px 0px 25px white",
   },
 });
 
