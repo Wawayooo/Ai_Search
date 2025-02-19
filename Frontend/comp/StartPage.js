@@ -92,6 +92,7 @@ const styles = StyleSheet.create({
   animatedButton: {
     alignItems: "center",
     position: "relative",
+    top: 120,
   },
 });
 
