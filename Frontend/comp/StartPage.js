@@ -89,7 +89,9 @@ const styles = StyleSheet.create({
     shadowOpacity: 0.8,
     shadowRadius: 10,
   },
-  animatedButton: {},
+  animatedButton: {
+    alignItems: "center",
+  },
 });
 
 export default MyComponent;
