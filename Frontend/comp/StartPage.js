@@ -89,6 +89,7 @@ const styles = StyleSheet.create({
     shadowOpacity: 0.8,
     shadowRadius: 10,
   },
+  animatedButton: {},
 });
 
 export default MyComponent;
