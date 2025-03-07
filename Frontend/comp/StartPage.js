@@ -104,6 +104,7 @@ const styles = StyleSheet.create({
     fontSize: 30,
     fontWeight: "bold",
     textShadowColor: "rgba(0, 0, 0, 0.55)",
+    textShadowOffset: { width: -2, height: 2 },
   },
 });
 
