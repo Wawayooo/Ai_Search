@@ -99,7 +99,9 @@ const styles = StyleSheet.create({
     borderRadius: 50,
     left: 30,
   },
-  buttonText: {},
+  buttonText: {
+    color: "white",
+  },
 });
 
 export default MyComponent;
