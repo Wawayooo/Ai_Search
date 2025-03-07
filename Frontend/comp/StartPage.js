@@ -99,6 +99,7 @@ const styles = StyleSheet.create({
     borderRadius: 50,
     left: 30,
   },
+  buttonText: {},
 });
 
 export default MyComponent;
