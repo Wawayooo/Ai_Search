@@ -107,7 +107,9 @@ const styles = StyleSheet.create({
     textShadowOffset: { width: -2, height: 2 },
     textShadowRadius: 10,
   },
-  login_textfield: {},
+  login_textfield: {
+    width: 250,
+  },
 });
 
 export default MyComponent;
