@@ -111,6 +111,7 @@ const styles = StyleSheet.create({
     width: 250,
     height: 50,
     borderWidth: 2,
+    borderColor: "black",
   },
 });
 ``;
