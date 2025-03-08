@@ -113,6 +113,7 @@ const styles = StyleSheet.create({
     borderWidth: 2,
     borderColor: "black",
     backgroundColor: "rgba(255, 255, 255, 0.5)",
+    borderRadius: "50%",
   },
 });
 ``;
