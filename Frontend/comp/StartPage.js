@@ -112,6 +112,7 @@ const styles = StyleSheet.create({
     height: 50,
     borderWidth: 2,
     borderColor: "black",
+    backgroundColor: "rgba(255, 255, 255, 0.5)",
   },
 });
 ``;
