@@ -110,6 +110,7 @@ const styles = StyleSheet.create({
   login_textfield: {
     width: 250,
     height: 50,
+    borderWidth: 2,
   },
 });
 ``;
