@@ -111,5 +111,5 @@ const styles = StyleSheet.create({
     width: 250,
   },
 });
-
+``;
 export default MyComponent;
