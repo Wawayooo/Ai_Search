@@ -120,6 +120,7 @@ const styles = StyleSheet.create({
     width: 100,
     resizeMode: "contain",
     bottom: 50,
+    left: 36,
   },
 });
 ``;
