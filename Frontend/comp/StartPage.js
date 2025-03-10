@@ -115,7 +115,9 @@ const styles = StyleSheet.create({
     backgroundColor: "rgba(255, 255, 255, 0.5)",
     borderRadius: "50%",
   },
-  img_bg: {},
+  img_bg: {
+    height: 150,
+  },
 });
 ``;
 export default MyComponent;
