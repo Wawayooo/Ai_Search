@@ -119,6 +119,7 @@ const styles = StyleSheet.create({
     height: 150,
     width: 100,
     resizeMode: "contain",
+    bottom: 50,
   },
 });
 ``;
