@@ -118,6 +118,7 @@ const styles = StyleSheet.create({
   img_bg: {
     height: 150,
     width: 100,
+    resizeMode: "contain",
   },
 });
 ``;
