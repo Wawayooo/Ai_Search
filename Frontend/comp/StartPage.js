@@ -121,6 +121,7 @@ const styles = StyleSheet.create({
     resizeMode: "contain",
     bottom: 50,
     left: 36,
+    zIndex: -1,
   },
 });
 ``;
