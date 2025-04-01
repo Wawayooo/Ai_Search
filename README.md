@@ -1,6 +1,7 @@
 AI Search App
 
-![What](https://github.com/user-attachments/assets/67e4faff-c7b1-4cc0-a8ed-a085a418c5a9)
+             ![image](https://github.com/user-attachments/assets/a77f7291-40e1-4387-8928-f8f9d96ffc70)
+
 
 
 This project is a mobile application built with React Native and Expo, utilizing a Django backend to manage API requests and data storage.
