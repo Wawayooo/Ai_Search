@@ -1,6 +1,7 @@
 AI Search App
 
-             ![image](https://github.com/user-attachments/assets/a77f7291-40e1-4387-8928-f8f9d96ffc70)
+
+![image](https://github.com/user-attachments/assets/a77f7291-40e1-4387-8928-f8f9d96ffc70)
 
 
 
